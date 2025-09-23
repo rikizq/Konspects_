@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "78a2199749b9b36e",
+        "id": "63fc539c35c09093",
         "type": "tabs",
         "children": [
           {
-            "id": "ffac25596f370705",
+            "id": "fd42bc38625869ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Конспекты/Введение в специальность/IT-профессии в РФ.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "IT-профессии в РФ"
             }
           }
         ]
@@ -36,11 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,10 +166,29 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "d7a5451e8d39ae0d",
+  "active": "fd42bc38625869ea",
   "lastOpenFiles": [
-    "2025-09-17.md",
+    "Pasted image 20250923100001.png",
+    "Pasted image 20250922095514.png",
+    "Pasted image 20250922095502.png",
+    "Конспекты/Информатика/Элементы комбинаторики, теория множества и мат. логики.md",
+    "Конспекты/Введение в специальность/IT-профессии в РФ.md",
+    "Pasted image 20250923095942.png",
+    "Pasted image 20250923095219.png",
+    "Конспекты/Введение в специальность",
+    "Конспекты/Основы IT/Процессоры.md",
+    "Pasted image 20250922094947.png",
+    "Pasted image 20250922095028.png",
+    "Pasted image 20250922095206.png",
+    "Конспекты/Информатика/Без названия.md",
+    "Конспекты/Информатика",
+    "Без названия.md",
+    "Конспекты/Основы IT",
+    "Конспекты/Основы IT.md",
+    "Без названия 1.md",
+    "Конспекты",
     "Untitled.canvas",
+    "пиздолиз.md",
     "Welcome.md"
   ]
 }
