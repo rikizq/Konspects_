@@ -1,0 +1,14 @@
+```python
+class Solution:
+    def longestCommonPrefix(self, strs: List[str]) -> str:
+
+        counter = 0
+        prefix = ""
+
+        for s in strs:
+            for i in range(len(s), 0, -1):
+                if strs.index(s[0:i]):
+    def prefix_in_list(self, word: str, strs: List[str]):
+
+        for i in range(len(world)):
+```
