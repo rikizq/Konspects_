@@ -15,3 +15,4 @@ class Solution:
                 if first_op + second_op == target: # Проверяем сумму текущих значений
                     return [i, j] # Если сумма равна цели возвращаем оба индекса
 ```
+![[{B214E3D9-D478-4ABE-A491-E982984486C4}.png]]
