@@ -1,4 +1,4 @@
-```pascal
+```free_pascal
 Program fib;
 
     var
