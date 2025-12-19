@@ -1,3 +1,4 @@
+#Virtualbox #Windows_1_0 #ISO #Oracle_VM
 # Виртуальные машины
 
 Сегодня я рассмотрел виртуальную машину Windows 1.0.1. Для ее просмотра нужен был файл windows 1.0.1 iso, который я скачал через сайт archive.org [Windows 1.01 ISO File](https://archive.org/details/win-1.0_202409)
