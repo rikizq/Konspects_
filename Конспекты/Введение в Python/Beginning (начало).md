@@ -5,7 +5,7 @@
 
 **Переменные** предназначены для хранения данных. Название переменной в Python должно начинаться с алфавитного символа или со знака подчеркивания и может содержать алфавитно-цифровые символы и знак подчеркивания. И кроме того, название переменной не должно совпадать с названием ключевых слов языка Python. Ключевых слов не так много, их легко запомнить:
 
-False await else import pass None break except in raise True class finally is return and continue for lambda try as def from nonlocal while assert del global not with async elif if or yield
+False await else import pass None break, кроме как в raise True class, наконец, возвращает и продолжает для лямбды try как def из нелокального, в то время как assert del global не с асинхронным elif if или yield
 
 **Camel case** подразумевает, что каждое новое подслово в наименовании переменной начинается с большой буквы. Например:
 `userName` `=` `"Tom"`
