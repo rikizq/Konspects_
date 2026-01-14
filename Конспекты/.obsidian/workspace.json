@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Введение в специальность/История языков программирования.md",
+                "file": "Код/67. Add Binary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "История языков программирования"
+              "title": "67. Add Binary"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Введение в специальность/История языков программирования.md",
+                "file": "Информатика/Списки, графы и деревья.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для История языков программирования"
+              "title": "Обратные ссылки для Списки, графы и деревья"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Введение в специальность/История языков программирования.md",
+                "file": "Информатика/Списки, графы и деревья.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из История языков программирования"
+              "title": "Исходящие ссылки из Списки, графы и деревья"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Введение в специальность/История языков программирования.md",
+                "file": "Информатика/Списки, графы и деревья.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура История языков программирования"
+              "title": "Структура Списки, графы и деревья"
             }
           }
         ]
@@ -184,5 +184,17 @@
     }
   },
   "active": "62331f5142ca848c",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Код/66. Plus One.md",
+    "Код/58. Length of Last Word.md",
+    "Код/67. Add Binary.md",
+    "ФОТКИ/Pasted image 20260114120009.png",
+    "ФОТКИ/Pasted image 20260114115616.png",
+    "Pasted image 20260114115539.png",
+    "ФОТКИ/Pasted image 20260114115717.png",
+    "Информатика/Списки, графы и деревья.md",
+    "Информатика/Текстовые процессоры (редакторы).Google Docs..md",
+    "Информатика/Формула Бэкус-Наур.md",
+    "Введение в специальность/История языков программирования.md"
+  ]
 }
