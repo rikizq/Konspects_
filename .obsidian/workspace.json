@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Конспекты/Код/Q1. (Can Make Arithmetic Progression From Sequence) Арифметическая прогрессия по последовательности.md",
+                "file": "Конспекты/Введение в специальность/IT-профессии в РФ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q1. (Can Make Arithmetic Progression From Sequence) Арифметическая прогрессия по последовательности"
+              "title": "IT-профессии в РФ"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -160,17 +160,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
     }
   },
   "active": "5bb0a312724fcce9",
   "lastOpenFiles": [
+    "Конспекты/Конфигурирование Windows 10/DISKPART.md",
+    "Конспекты/Конфигурирование Windows 10/Установка Windows 10.md",
+    "Конспекты/Код/Q1. (Can Make Arithmetic Progression From Sequence) Арифметическая прогрессия по последовательности.md",
     "Конспекты/Код/Q2. (Reverse Integer) Обратное целое число.md",
     "Конспекты/Код/Q3. (Palindrome Number) Палиндромный номер.md",
     "Конспекты/Код/Добавьте два числа(leetcode) 2 задача.md",
@@ -189,8 +192,6 @@
     "Конспекты/Код/Код Инкапсуляция.md",
     "Конспекты/Код/Код Наследование.md",
     "Конспекты/Конфигурирование Windows 10/NET USER;NET LOCALGROUP.md",
-    "Конспекты/Конфигурирование Windows 10/DISKPART.md",
-    "Конспекты/Конфигурирование Windows 10/Установка Windows 10.md",
     "Конспекты/ФОТКИ/Pasted image 20260123235318.png",
     "Конспекты/Конфигурирование Windows 10",
     "Конспекты/ФОТКИ/Pasted image 20260131225744.png",
@@ -200,7 +201,6 @@
     "Конспекты/Код/Реализация связного списка.md",
     "Конспекты/Код/Объединить два отсортированных списка.md",
     "Конспекты/Код/Номер палиндрома.md",
-    "Конспекты/Код/Код Полиморфизма.md",
     "Конспекты/ФОТКИ/Pasted image 20251226142646.png",
     "Конспекты/ФОТКИ/Pasted image 20251226132642.png",
     "Конспекты/ФОТКИ/Pasted image 20251226132505.png",
