@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Конспекты/Код/Q3. (Palindrome Number) Палиндромный номер.md",
+                "file": "Конспекты/Код/94. Binary Tree Inorder Traversal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q3. (Palindrome Number) Палиндромный номер"
+              "title": "94. Binary Tree Inorder Traversal"
             }
           }
         ]
@@ -171,6 +171,13 @@
   },
   "active": "5bb0a312724fcce9",
   "lastOpenFiles": [
+    "Конспекты/Код/88. Merge Sorted Array.md",
+    "Конспекты/Код/94. Binary Tree Inorder Traversal.md",
+    "Pasted image 20260209205326.png",
+    "Конспекты/Код/83. Remove Duplicates from Sorted List.md",
+    "Pasted image 20260209205031.png",
+    "Pasted image 20260209204540.png",
+    "Конспекты/Код/Q3. (Palindrome Number) Палиндромный номер.md",
     "Конспекты/Код/Q2. (Reverse Integer) Обратное целое число.md",
     "Конспекты/Код/Q1. (Can Make Arithmetic Progression From Sequence) Арифметическая прогрессия по последовательности.md",
     "Конспекты/Код/Hangman.md",
@@ -192,11 +199,6 @@
     "Конспекты/Код/Добавьте два числа(leetcode) 2 задача.md",
     "Конспекты/Код/две суммы(leetcode) 1 задача.md",
     "Конспекты/Код/70. Climbing Stairs(Typescript).md",
-    "Конспекты/Код/70. Climbing Stairs(Python).md",
-    "Конспекты/Код/69. Sqrt(x).md",
-    "Конспекты/Код/67. Add Binary.md",
-    "Конспекты/Код/66. Plus One.md",
-    "Конспекты/Код/58. Length of Last Word.md",
     "Конспекты/скорость печатанья/Снимок экрана (3) 1.png",
     "{B218A753-A354-4DA1-B7F6-F4044359A29F}.png",
     "Конспекты/ФОТКИ/Pasted image 20260123235318.png",
@@ -207,12 +209,9 @@
     "Конспекты/ФОТКИ/Pasted image 20251226132505.png",
     "Конспекты/Индивидуальный проект/телеграмм бот(поиск музыки)/спринт 1 (10.12)",
     "Конспекты/Индивидуальный проект/телеграмм бот(поиск музыки)",
-    "Конспекты/ФОТКИ/Pasted image 20251124154614.png",
     "Конспекты/Рефлексия",
-    "Pasted image 20251124154614.png",
     "Конспекты/Основы Информационных технологий/Схема.canvas",
     "Конспекты/Дополнительно",
-    "Конспекты/ФОТКИ/{0981B6B6-5131-48D7-9FC6-A9E59449149B}.png",
     "Конспекты/ФОТКИ/Почему и когда надо сказать нет (Зимин).pdf",
     "Конспекты/Введение в специальность/История языка программирования Pascal",
     "Конспекты/Индивидуальный проект",
