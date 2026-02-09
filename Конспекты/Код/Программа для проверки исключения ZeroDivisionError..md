@@ -1,4 +1,4 @@
-#Код #Except #ZeroDivisionError #raw #try 
+#Код #Except #ZeroDivisionError #raw #try #Python 
 ```python
 is_running = True
 

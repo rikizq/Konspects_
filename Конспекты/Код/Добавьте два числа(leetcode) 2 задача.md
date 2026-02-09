@@ -1,4 +1,4 @@
-#leetcode #Код
+#leetcode #Код #Python 
 ![[{0981B6B6-5131-48D7-9FC6-A9E59449149B}.png]]
 
 ```python

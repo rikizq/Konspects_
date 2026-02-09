@@ -1,4 +1,4 @@
-#leetcode #two_summ #Код
+#leetcode #two_summ #Код #Python 
 ```python
 
 #Зимин Я.В.

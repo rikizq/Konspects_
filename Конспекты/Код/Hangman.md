@@ -1,4 +1,4 @@
-#Hangman #Виселица #Txt-reader #Python 
+#Hangman #Виселица #Txt-reader #Python #Код
 # Hangman.py 
 
 ```python

@@ -1,4 +1,4 @@
-#Fib #Pascal #Fibonacchi
+#Fib #Pascal #Fibonacchi #Код #free_pascal
 ```free_pascal
 Program fib;
 
