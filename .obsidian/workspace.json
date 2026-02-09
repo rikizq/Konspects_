@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Конспекты/Код/58. Length of Last Word.md",
+                "file": "Конспекты/Код/94. Binary Tree Inorder Traversal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "58. Length of Last Word"
+              "title": "94. Binary Tree Inorder Traversal"
             }
           }
         ]
@@ -171,14 +171,15 @@
   },
   "active": "5bb0a312724fcce9",
   "lastOpenFiles": [
-    "Конспекты/Код/66. Plus One.md",
-    "Конспекты/Код/67. Add Binary.md",
-    "Конспекты/Код/69. Sqrt(x).md",
-    "Конспекты/Код/70. Climbing Stairs(Python).md",
+    "Конспекты/Код/88. Merge Sorted Array.md",
     "Конспекты/Код/83. Remove Duplicates from Sorted List.md",
     "Конспекты/Код/70. Climbing Stairs(Typescript).md",
-    "Конспекты/Код/88. Merge Sorted Array.md",
+    "Конспекты/Код/70. Climbing Stairs(Python).md",
+    "Конспекты/Код/69. Sqrt(x).md",
     "Конспекты/Код/94. Binary Tree Inorder Traversal.md",
+    "Конспекты/Код/58. Length of Last Word.md",
+    "Конспекты/Код/66. Plus One.md",
+    "Конспекты/Код/67. Add Binary.md",
     "Конспекты/Рефлексия/27.01.26.md",
     "Конспекты/Рефлексия/17.12.25.md",
     "Конспекты/Рефлексия/16.12.25.md",
@@ -196,7 +197,6 @@
     "Конспекты/Информатика/Формула Бэкус-Наур.md",
     "Конспекты/Информатика/Текстовые процессоры (редакторы).Google Docs..md",
     "Конспекты/Информатика/Списки, графы и деревья.md",
-    "Конспекты/Информатика/Службы интернета.md",
     "Конспекты/ФОТКИ/Pasted image 20260209205326.png",
     "Конспекты/ФОТКИ/Pasted image 20260209205031.png",
     "Конспекты/ФОТКИ/Pasted image 20260209204540.png",
