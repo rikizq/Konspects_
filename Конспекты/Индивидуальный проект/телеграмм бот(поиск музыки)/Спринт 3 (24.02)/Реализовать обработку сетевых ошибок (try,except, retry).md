@@ -1,3 +1,4 @@
+#Спринт #Тг-бот #Музыка 
 ### Реализация retry для fetch_json
 ```python
 import asyncio
@@ -49,7 +50,6 @@ async def send_preview(message: Message, track: dict):
             else:
                 print(f"Не удалось отправить трек: {track.get('trackName')}")
 ```
-
 
 
 Если iTunes временно не отвечает - бот автоматически попробует ещё раз

@@ -1,22 +1,4 @@
 #Спринт #Тг-бот #Музыка 
-### Описание проделанной работы
-
-Замена библиотеки requests на aiohttp для обеспечения полной асинхронности Telegram-бота.
-
-### Цель работы
-Повысить производительность и стабильность работы Telegram-бота за счёт устранения блокирующих HTTP-запросов и перевода всей сетевой логики в асинхронный режим.
-
-### Исходная проблема
-Изначально бот использовал библиотеку requests для обращения к API iTunes.
-Недостатки такого подхода:
-requests является синхронной библиотекой
-блокирует event loop aiogram
-при одновременных запросах бот "подвисал"
-замедлялась отправка нескольких треков подряд
-увеличивалось время отклика на команды /random и /top
-
-Таким образом, несмотря на использование асинхронного фреймворка aiogram, часть кода оставалась блокирующей.
-
 ```python
 import asyncio
 import random
@@ -31,6 +13,7 @@ from aiogram.types import Message
 
 TOKEN = "8205786674:AAF0JYnQBU7F6-hXQ0eqjYoJZyxAFhlxKsA"
 SEARCH_LIMIT = 5
+JSON_TIMEOUT = 10
 
 bot = Bot(token="8205786674:AAF0JYnQBU7F6-hXQ0eqjYoJZyxAFhlxKsA")
 dp = Dispatcher()
@@ -42,7 +25,11 @@ session: aiohttp.ClientSession | None = None
 
 async def fetch_json(url: str, params: dict | None = None):
     try:
-        async with session.get(url, params=params) as resp:
+        async with session.get(
+            url,
+            params=params,
+            timeout=aiohttp.ClientTimeout(total=JSON_TIMEOUT)
+        ) as resp:
 
             if resp.status != 200:
                 return None
@@ -100,7 +87,7 @@ async def get_top_tracks(limit=SEARCH_LIMIT):
     return results[:limit]
 
 
-# ОТПРАВКА
+# ОТПРАВКА (БЕЗ СКАЧИВАНИЯ)
 
 async def send_preview(message: Message, track: dict):
     url = track.get("previewUrl")
@@ -123,8 +110,7 @@ async def send_tracks_parallel(message: Message, tracks: list):
     await asyncio.gather(*tasks)
 
 
-# КОМАНДЫ
-
+# КОМАНДЫ 
 @dp.message(Command("start"))
 async def start(message: Message):
     await message.answer(
@@ -142,7 +128,7 @@ async def start(message: Message):
 @dp.message(Command("help"))
 async def help_cmd(message: Message):
     await message.answer(
-        "Команды:\n\n"
+        " Команды:\n\n"
         "/track <название>\n"
         "/artist <имя>\n"
         "/random\n"
@@ -215,13 +201,13 @@ async def text_search(message: Message):
     await send_tracks_parallel(message, tracks)
 
 
-# ЗАПУСК
+# ЗАПУСК 
 
 async def main():
     global session
     session = aiohttp.ClientSession()
 
-    print("Музыкальный бот запущен")
+    print(" Музыкальный бот запущен ")
 
     try:
         await dp.start_polling(bot)
@@ -233,10 +219,4 @@ if __name__ == "__main__":
     asyncio.run(main())
 ```
 
-### Вывод
-
-Переход с requests на aiohttp позволил:
-привести архитектуру бота к полностью асинхронной модели
-повысить производительность
-обеспечить корректную работу при множественных одновременных запросах
-улучшить масштабируемость проекта.
+Я сделал таймаут пока что частично, потому что он только задаёт ограничение времени для запроса, но полностью не обрабатывается. В коде нет отдельной обработки ошибки таймаута, она попадает в общий except Exception, поэтому нельзя точно определить, что произошёл именно таймаут.
