@@ -1,4 +1,4 @@
-#Спринт #Тг-бот #Музыка 
+#Спринт #Тг-бот #Музыка #Таймаут
 ```python
 import asyncio
 import random

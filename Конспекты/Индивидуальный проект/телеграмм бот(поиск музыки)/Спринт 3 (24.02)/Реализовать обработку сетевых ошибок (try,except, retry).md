@@ -1,4 +1,4 @@
-#Спринт #Тг-бот #Музыка 
+#Спринт #Тг-бот #Музыка #try #except #retry
 ### Реализация retry для fetch_json
 ```python
 import asyncio
