@@ -1,3 +1,4 @@
+#WinGet #CLI #БазовыеКоманды #МенеджерПакетов #ПакетнаяУстановка  #MSI #EXE #MSIX #APPX #WiX #AppInstaller #MicrosoftStore #PowerShell #bundle #bat-script
 ### Введение
 Windows Package Manager (winget) - официальный менеджер пакетов от Microsoft для операционных систем Windows 10, Windows 11 и Windows Server 2025. Это инструмент командной строки, который позволяет искать, устанавливать, обновлять и удалять приложения, упрощая управление программным обеспечением на компьютере.
 ### Установка
