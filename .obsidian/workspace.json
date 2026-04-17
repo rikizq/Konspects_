@@ -11,10 +11,14 @@
             "id": "5bb0a312724fcce9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Конспекты/Индивидуальный проект/телеграмм бот(поиск музыки)/Спринт 4 (12.03)/Бат файл для моего кода.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Бат файл для моего кода"
             }
           }
         ]
