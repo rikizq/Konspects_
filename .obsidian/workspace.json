@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Конспекты/Python/Arrays and Linked Lists.md",
+                "file": "Конспекты/Python/HashMaps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arrays and Linked Lists"
+              "title": "HashMaps"
             }
           }
         ]
@@ -169,13 +169,14 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "e759e912da8b57c2",
+  "active": "5bb0a312724fcce9",
   "lastOpenFiles": [
+    "Конспекты/Python/Arrays and Linked Lists.md",
+    "Конспекты/Python/HashMaps.md",
     "Конспекты/ФОТКИ/Pasted image 20260512142946.png",
     "Конспекты/ФОТКИ/Pasted image 20260512142915.png",
     "Pasted image 20260512142718.png",
     "Конспекты/Python/Data Structures and Algorithms.md",
-    "Конспекты/Python/Arrays and Linked Lists.md",
     "Конспекты/Конфигурирование Windows 10/Оптимизация Windows 10.md",
     "Конспекты/Информатика/Без названия.md",
     "Конспекты/Конфигурирование Windows 10/Утилита DISKPART - на паре 20.02.md",
@@ -209,7 +210,6 @@
     "Конспекты/ФОТКИ/{25A651AC-DC38-436E-9F50-E0A14012FB7F}.png",
     "{D1D957BB-CA8F-4695-BC34-2EA4DC322135}.png",
     "Конспекты/ФОТКИ/{A049408B-38F8-4CC1-A83D-DDD2645F4D19}.png",
-    "{E261EED6-F9E1-43FA-B8E7-E8D1C56D3BCD}.png",
     "для вставок",
     "Конспекты/Индивидуальный проект/телеграмм бот(поиск музыки)/Спринт 4 (12.03",
     "Конспекты/Индивидуальный проект/телеграмм бот(поиск музыки)/Спринт 3 (24.02)",
