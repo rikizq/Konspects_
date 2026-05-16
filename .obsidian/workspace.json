@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Конспекты/python/Data Structures and Algorithms.md",
+                "file": "Конспекты/Код/Код по автотестированию.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Structures and Algorithms"
+              "title": "Код по автотестированию"
             }
           }
         ]
@@ -171,8 +171,10 @@
   },
   "active": "5bb0a312724fcce9",
   "lastOpenFiles": [
-    "Конспекты/Конфигурирование Windows 10/Оптимизация Windows 10.md",
+    "Конспекты/Код/Тестирование кода для сайта.md",
+    "Конспекты/Код/Код по автотестированию.md",
     "Конспекты/python/Data Structures and Algorithms.md",
+    "Конспекты/Конфигурирование Windows 10/Оптимизация Windows 10.md",
     "Конспекты/python",
     "Untitled.md",
     "Конспекты/Конфигурирование Windows 10/Утилита DISKPART - на паре 20.02.md",
@@ -203,8 +205,6 @@
     "Конспекты/Люди/Эндрю Таненбаума.md",
     "Конспекты/Информатика/Архив.md",
     "Конспекты/Информатика/Файлы.md",
-    "Конспекты/Код/Сортировка слиянием.md",
-    "Конспекты/Код/Сортировка вставками.md",
     "Конспекты/ФОТКИ/{25A651AC-DC38-436E-9F50-E0A14012FB7F}.png",
     "{D1D957BB-CA8F-4695-BC34-2EA4DC322135}.png",
     "Конспекты/ФОТКИ/{A049408B-38F8-4CC1-A83D-DDD2645F4D19}.png",
