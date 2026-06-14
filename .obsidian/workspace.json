@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Конспекты/Рефлексия/Рефлексия от 05.06.26 - ИНФ.md",
+                "file": "Конспекты/python/Dictionaries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Рефлексия от 05.06.26 - ИНФ"
+              "title": "Dictionaries"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -160,19 +160,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "5bb0a312724fcce9",
   "lastOpenFiles": [
-    "Конспекты/Python/Heaps, Stacks и Queues.md",
+    "Конспекты/python/HashMaps.md",
+    "Конспекты/python/Heaps, Stacks и Queues.md",
+    "Конспекты/python/Dictionaries.md",
+    "Конспекты/python/Data Structures and Algorithms.md",
+    "Конспекты/python/Arrays and Linked Lists.md",
+    "Конспекты/Информатика/Архив.md",
     "Конспекты/Рефлексия/Рефлексия от 05.06.26 - ИНФ.md",
+    "Конспекты/Python/Heaps, Stacks и Queues.md",
     "Конспекты/Люди/Дональд Кнут.md",
     "Конспекты/Python/HashMaps.md",
     "Конспекты/Python/Dictionaries.md",
@@ -201,12 +207,6 @@
     "Конспекты/ФОТКИ/{600AB8E7-860B-40AF-914B-1A7FD70A881C}.png",
     "Конспекты/скорость печатанья/Проверка на печатанье 04.05.png",
     "Конспекты/Люди/Фил Кац.md",
-    "Конспекты/Индивидуальный проект/телеграмм бот(поиск музыки)/Спринт 5 (13.04)/UX.md",
-    "Конспекты/Индивидуальный проект/телеграмм бот(поиск музыки)/Спринт 5 (13.04)/Обложки (Artwork).md",
-    "Конспекты/Индивидуальный проект/телеграмм бот(поиск музыки)/Спринт 5 (13.04)/Добавление Пагинаций.md",
-    "Конспекты/Индивидуальный проект/телеграмм бот(поиск музыки)/Спринт 4 (12.03)/Бат файл для моего кода.md",
-    "Конспекты/Индивидуальный проект/телеграмм бот(поиск музыки)/Спринт 4 (12.03/Бат файл для моего кода.md",
-    "Конспекты/Информатика/Основы деплоя. Docker, kubernetes.md",
     "Конспекты/Индивидуальный проект/телеграмм бот(поиск музыки)/Спринт 5 (13.04)",
     "Конспекты/Индивидуальный проект/телеграмм бот(поиск музыки)/Спринт 4 (12.03)",
     "Конспекты/ФОТКИ/{25A651AC-DC38-436E-9F50-E0A14012FB7F}.png",
