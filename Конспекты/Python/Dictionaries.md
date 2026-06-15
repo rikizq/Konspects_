@@ -1,4 +1,4 @@
-#DIctionaries
+#DIctionaries #Python #Информация #Операции #Словари
 
 **Dictionary** - встроенная структура данных Python для хранения информации в формате ключ → значение (_key-value_).
 
