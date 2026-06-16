@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Конспекты/python/Basic syntax.md",
+                "file": "Конспекты/Python(roadmap)/Conditionals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic syntax"
+              "title": "Conditionals"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -160,13 +160,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
     }
   },
   "active": "5bb0a312724fcce9",
@@ -192,17 +192,17 @@
     "Конспекты/Конфигурирование Windows 10/Untitled.md",
     "Конспекты/Информатика/Архив.md",
     "Конспекты/Рефлексия/Рефлексия от 05.06.26 - ИНФ.md",
-    "Конспекты/Python/Heaps, Stacks и Queues.md",
+    "Конспекты/Python(roadmap)/Heaps, Stacks и Queues.md",
     "Конспекты/Люди/Дональд Кнут.md",
-    "Конспекты/Python/HashMaps.md",
-    "Конспекты/Python/Dictionaries.md",
-    "Конспекты/Python/Data Structures and Algorithms.md",
+    "Конспекты/Python(roadmap)/HashMaps.md",
+    "Конспекты/Python(roadmap)/Dictionaries.md",
+    "Конспекты/Python(roadmap)/Data Structures and Algorithms.md",
     "Конспекты/ФОТКИ/Pasted image 20260604132933.png",
     "Конспекты/ФОТКИ/Pasted image 20260604115048.png",
     "Конспекты/ФОТКИ/Pasted image 20260512142946.png",
     "Конспекты/ФОТКИ/Pasted image 20260512142915.png",
     "Pasted image 20260512142718.png",
-    "Конспекты/Python",
+    "Конспекты/Python(roadmap)",
     "Конспекты/ФОТКИ/roadmap.png",
     "Конспекты/скорость печатанья/Pasted image 20251217092005.png",
     "Конспекты/ФОТКИ/{600AB8E7-860B-40AF-914B-1A7FD70A881C}.png",
