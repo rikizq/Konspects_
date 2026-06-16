@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Конспекты/python/HashMaps.md",
+                "file": "Конспекты/python/Basic syntax.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HashMaps"
+              "title": "Basic syntax"
             }
           }
         ]
@@ -171,23 +171,23 @@
   },
   "active": "5bb0a312724fcce9",
   "lastOpenFiles": [
+    "Конспекты/python/Conditionals.md",
+    "Конспекты/python/Data Structures and Algorithms.md",
+    "Конспекты/python/Dictionaries.md",
     "Конспекты/python/Exceptions.md",
     "Конспекты/python/Functions and Built-in Functions.md",
     "Конспекты/python/HashMaps.md",
     "Конспекты/python/Heaps, Stacks и Queues.md",
-    "Конспекты/python/Basic syntax.md",
-    "Конспекты/python/Arrays and Linked Lists.md",
-    "Конспекты/python/Conditionals.md",
-    "Конспекты/python/Data Structures and Algorithms.md",
-    "Конспекты/python/Dictionaries.md",
-    "Конспекты/python/Tuples.md",
-    "Конспекты/python/Sets.md",
-    "Конспекты/python/Operators.md",
-    "Конспекты/python/Loops.md",
     "Конспекты/python/Lists.md",
+    "Конспекты/python/Loops.md",
+    "Конспекты/python/Operators.md",
+    "Конспекты/python/Sets.md",
+    "Конспекты/python/Tuples.md",
     "Конспекты/python/Type casting.md",
     "Конспекты/python/Variables and Data Types.md",
     "Конспекты/python/Working with Strings.md",
+    "Конспекты/python/Basic syntax.md",
+    "Конспекты/python/Arrays and Linked Lists.md",
     "Конспекты/Конфигурирование Windows 10/Удаленный доступ к OC Windows. Протокол RDP.md",
     "Конспекты/Конфигурирование Windows 10/Untitled.md",
     "Конспекты/Информатика/Архив.md",
